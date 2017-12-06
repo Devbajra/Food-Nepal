@@ -1,0 +1,4 @@
+-run xampp and start apache and mysql
+-import the database from foodnepal.sql which is in 'database' folder
+-copy all the files and folders in xampp/htdocs/
+-open the browser and open the link http://localhost/Food%20Nepal/shop/index.php

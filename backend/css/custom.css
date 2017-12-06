@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+header{
+	height:100px;
+	background:#333;
+	width:100%;
+}
+b{
+	color:#ea5e50;
+	font-size:80px;
+	padding:10px;
+}
+.left-side{
+	display:inline-block;
+	width:10%;
+	float:left;
+	margin-top:5px;
+	background:#333;
+}
+.right-side{
+	display:inline-block;
+	width:85%;
+	float:left;
+	margin-top:5px;
+	margin-left:5px;
+}
+.left-side a {
+	display:block;
+	margin: 20px;
+}
+table tr th{
+	padding:20px;
+	 
+}
+table tr td{
+	padding: 10px;
+}
+table tr td span{
+	color:red;
+}
+input[type="button"]{
+	height:40px;
+	width:100%;
+	background:#ea5e50;
+	color:#fff;
+	border:none;
+	cursor:pointer;
+}
+input[type="button"]:hover{
+	background:#fff;
+	color:#ea5e50;
+}
